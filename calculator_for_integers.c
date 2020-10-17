@@ -18,3 +18,5 @@ int main()
     int sum = somma_cal(n);
     printf("%d", sum);
 }
+
+// hello world
